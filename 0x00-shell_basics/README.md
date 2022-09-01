@@ -1,1 +1,1 @@
-script that prints the absolute path mame of the current working directory
+Display your content lists of current directory in a long format
