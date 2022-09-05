@@ -1,0 +1,2 @@
+#!/bin/badh
+ls -t | head -10
