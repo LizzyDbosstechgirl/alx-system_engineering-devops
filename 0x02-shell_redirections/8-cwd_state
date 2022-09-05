@@ -1,2 +1,2 @@
 #!/bin/bash
-Is -all > ls_cwd_ content
+ls -la > ls_cwd_content
